@@ -28,7 +28,7 @@
 <a name="gioithieubanthan"></a>
 * *Họ và Tên*: Nguyễn Vẹn Toàn  
 * *MSSV*: 22521492 
-* *Mã khoa*: KHMT2022.4
+* *Lớp sinh hoạt*: KHMT2022.4
 ## QUÁ TRÌNH MÔN HỌC
 <a name ="quatrinh"></a>
 ### 1.LẬP TRÌNH PYTHON
